@@ -13,7 +13,7 @@ Enjoy!
 
 ```lua
 {
-    'mustardfrog/pinkish_day'
+    'mustardfrog/pinkish_day',
     lazy = true,
     dependencies = { 'rktjmp/lush.nvim' },
 }
