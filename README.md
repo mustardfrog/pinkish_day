@@ -1,6 +1,6 @@
 # Pinkish_Day
 
-## Another pink theme to make the world better
+## Another pink theme to make your day better.
 
 ####  *** This is still in the early development. However most things should work fine ***
 
@@ -18,3 +18,5 @@ Enjoy!
     dependencies = { 'rktjmp/lush.nvim' },
 }
 ```
+
+Feel free to open an issue if things don't work the way it should.
