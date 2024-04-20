@@ -105,7 +105,7 @@ local theme = lush(function(injected_functions)
     Boolean { Number },                      --   A boolean constant: TRUE, false
     Float { Number },                        --   A floating point constant: 2.3e10
 
-    Identifier { fg = cyan },                -- (*) Any variable name
+    Identifier { fg = dark_pink },           -- (*) Any variable name
     Function { fg = magenta.li(40) },        --   Function name (also: methods for classes)
 
     Statement { fg = red_key },              -- (*) Any statement
